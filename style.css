@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+div{
+    border: 1px solid red;
+    overflow-y: auto;
+    max-height: 200px;
+}
